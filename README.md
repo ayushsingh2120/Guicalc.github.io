@@ -32,7 +32,7 @@ A simple calculator application built using Python's `tkinter` library. This cal
 3. Run the application:
 
    ```bash
-   python calculator.py
+   python guicalc.py
 ## Usage
 
 **Perform Calculations:** Click on numbers and operations to build expressions. Press = to see the result.
@@ -62,4 +62,4 @@ Tkinter documentation for GUI development.
 
 ## Contact
 
-For any inquiries, please reach out to **salil.16440@stu.upes.ac.in**.
+For any inquiries, please reach out to **ayush.10104@stu.upes.ac.in**.
